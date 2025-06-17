@@ -1,0 +1,10 @@
+__pycache__/
+.env
+.venv/
+*.pyc
+chat_log.txt
+*.sqlite3
+*.log
+*.db
+.env
+openai_api_key.txt
