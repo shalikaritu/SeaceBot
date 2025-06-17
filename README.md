@@ -1,6 +1,6 @@
 # 💖 Seace Bot – Your AI Companion 💻✨
 
-![Banner](https://your-banner-image-url.com) <!-- Optional: upload a cute Seace banner -->
+![Banner](assets/seace_banner.pngit. addg) <!-- Optional: upload a cute Seace banner -->
 
 > Seace is your lovable AI chatbot designed to be sweet, caring, and emotionally responsive — just like a virtual best friend or companion 🤗💌. Built using Python Flask, Seace responds intelligently using powerful LLMs like OpenAI or Hugging Face models!
 
